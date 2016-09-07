@@ -1,0 +1,3 @@
+#Muhammad_Raihan_Saputra
+
+Week 1 tasks explores CLI commands and git commands. CLI commands includes touch, ls, mkdir, pwd. I chose vim to be the text editor. Git commands for the tasks include git add, clone, pull, push, commit.:
