@@ -17,3 +17,4 @@ drwxr-xr-x  2 muhammad.raihan41 StafCS 4096 Sep  7 11:07 week08
 drwxr-xr-x  2 muhammad.raihan41 StafCS 4096 Sep  7 11:08 week09
 drwxr-xr-x  2 muhammad.raihan41 StafCS 4096 Sep  7 11:08 week10
 /home/fasilkom/mahasiswa/m/muhammad.raihan41/os162/week01
+Today is 07 Sep 2016 at 12:02:37
