@@ -1,2 +1,4 @@
 #Muhammad_Raihan_Saputra
 #INT162
+
+I expect to be fluent in using the bash terminals and in scripting after passing this class. I also expect to understand the architecture and the way operating systems work.
