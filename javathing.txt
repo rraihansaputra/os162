@@ -1,0 +1,38 @@
+On SensorChange
+T = Target
+H = Heading
+
+so loop for 3 targets
+if state = compass
+  block = blockCal (H, compassVal)
+---
+make new function blockCal
+input H T
+return block
+if (T < H + 45 and T > H-45) {
+    int block;
+    block = Math.floor(T-(H-45)/10);
+}
+else if (T > H + 45){
+    block = 9;
+}
+else if (T < H - 45){
+    block = 0;
+}
+else {
+    pass;
+}
+--
+on SensorChange
+if oldblock != block:
+  oldbar.setBackground(black);
+  oldblock = block
+
+switch (block) {
+    case 0:     bar0.setBackground(color);
+                oldbar = bar0
+                break;
+}
+    case 1:     bar1.setBackground(color);
+                break;
+}
